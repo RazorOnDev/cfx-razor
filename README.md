@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 
 
 
-
+<!--
 [![Discord](https://i.imgur.com/)](https://discordapp.com/users/860535299054501888)
+-->
 
 <h2>📈 Stats<h2>
 
