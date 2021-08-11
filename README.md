@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Oscuros RolePlay, KZ SHOP and Wide Cloud.
+- 🔭 I’m currently working on Wide Cloud, KZ SHOP and Discord Shield Bot.
 - 🌱 I’m currently learning Python and Cybersecurity.
 
 
